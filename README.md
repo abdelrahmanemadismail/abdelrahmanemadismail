@@ -8,13 +8,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=BA5F17&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Technical Community Head at IEEE SHA SB'07
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-<!--
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
--->
+- 🏢 I'm Abdelrahman Ismail, a Software Engineer with over five years of experience in software and web development.
+- 🎓 I hold a Bachelor's degree in Computer Science from El Shorouk Academy.
+- 💼 I have worked with diverse teams at Bright Future Education and Univortal, developing advanced software solutions.
+- 👨‍💻 During my three years at Bright Future Education, I contributed to the development of their website and business-focused software systems.
+- 💡 Since April 2023, I’ve been working at Univortal, building advanced web applications tailored to client needs.
+- 🔧 I am passionate about continuous learning, contributing to open-source projects, and exploring the latest in technology.
+- 🤝 I enjoy attending tech meetups and networking with professionals in the industry.
 
 ### Connect with Me :
 
